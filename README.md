@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### ⚔️ Sharp like a blade, with powers like a mage.
+garbage lua & css programmer.
 <!--
-**jinSharp/jinSharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
