@@ -1,6 +1,6 @@
 ### 💻 Eclipsify
-- 🔭 My current project is BDSnips. (github.com/calamitiess/BDSnips)
-- 📫 How to reach me: calamityyy#3571 on discord or @calamityyys on twitter.
+- 🔭 My current project is BDSnips. (github.com/Eclipsify/BDSnips)
+- 📫 How to reach me: Eclipsifyy#3571 on discord or @Eclipsifyyy on twitter.
 - 🌱 Programming languages: Lua & CSS.
 <!--
 
