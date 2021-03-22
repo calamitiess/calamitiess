@@ -4,7 +4,7 @@
 # Personal Links
 - Profile - [Ryonfill](https://github.com/Ryonfill)
 - Company - [DiscordAddons](https://github.com/DiscordAddons)
-- Twitter - [@ryonsphereee](https://twitter.com/ryonsphereee)
+- Twitter - [@Ryonfill](https://twitter.com/Ryonfill)
 - Discord - `Ryonfill#3571`
 
 # Interests
