@@ -35,7 +35,7 @@
 - [BDSnips](https://github.com/Ryonss/BDSnips) - `Discontinued and archived`
 
 # Special Repos
-- [Ryonfill - About me](https://github.com/Ryonfill/Ryonfill) - `Public`
+- [Ryonfill](https://github.com/Ryonfill/Ryonfill) - `Public`
 <!--
 
 
