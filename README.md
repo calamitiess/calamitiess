@@ -43,9 +43,9 @@
 - [DiscordAddons](https://github.com/DiscordAddons/info)
   - `🟢`
 - [Chromacord](https://github.com/DiscordAddons/Chromacord)
-  - `🟢 & 🟠`
+  - `🟢 and 🟠`
 - [ChromaSlate](https://github.com/DiscordAddons/ChromaSlate)
-  - `🔴 & ⚪`
+  - `🔴 and ⚪`
 
 **PERSONAL**
 - [iyplugins](https://github.com/Ryonfill/iyplugins)
