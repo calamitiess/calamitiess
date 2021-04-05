@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ryon.
 
-**I'm a programmer who codes in CSS.**
+**I'm a 13 year old programmer who enjoys coding.**
 
-- 🛠️ I'm currently working on [Synthcord '84](https://github.com/BDStyles/Synthcord-84), a theme that changes the appearance of Discord. More information [here](https://github.com/BDStyles/Synthcord-84)
+- 🛠️ I'm currently working on [Synthcord '84](https://github.com/BDStyles/Synthcord-84), a theme that changes the appearance of Discord. More information on it's repo.
 - ✍️ I'm currently learning **CSS**
 - 🤝 I'm willing to get help from anyone who has experience and knowledge about CSS.
 - 📫 You can reach me using the links below or add my discord - `ryonsharp#0525`.
