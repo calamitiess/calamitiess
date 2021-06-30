@@ -1,4 +1,11 @@
 <h1>Rysworldd 🥀</h1>
+<details><summary>Social Links</summary>
+  <li><a href="https://github.com/rysworldd">Organization</a></li>
+  <li><a href="https://rysworld.carrd.co">Carrd Profile</a></li>
+  <li><a href="https://twitter.com/rysworldd">Twitter</a></li>
+  <li><a href="#">YouTube</a></li>
+</details>
+
 <details><summary>My Themes</summary>
   <li><a href="https://github.com/rysworldd/ComfyPink">ComfyPink</a></li>
 </details>
