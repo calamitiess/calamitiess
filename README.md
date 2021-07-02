@@ -1,3 +1,32 @@
+**Quick introduction about me**
+- 🕷️ I'm *Ry* or `ryswrldd`.
+- 🖥️ Theme developer with 3+ months of experience and semi Lua programmer. And that's about all.
+
+**My themes**
+- I usually make themes for Discord and sometimes release them for people to use, here's a list of all of my released or discontinued themes:
+  - [ComfyPink](https://github.com/rysworldd/ComfyPink)
+  - [Synthcord Frame](https://github.com/ryswrldd/synthcord-frame)
+  - [Synthcord '84](https://github.com/ryswrldd/themes-archive/tree/main/synthcord-84)
+  - [Hyprisms](https://github.com/ryswrldd/themes-archive/tree/main/hyprisms)
+  - [Cyancord](https://github.com/ryswrldd/themes-archive/tree/main/cyancord)
+
+**My stats**
+
+![](https://komarev.com/ghpvc/?username=ryonnn)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryswrldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Ry's Stats](https://github-readme-stats.vercel.app/api?username=ryswrldd&show_icons=true&theme=radical&hide_border=true)
+
+- Repo inspired by [teidesu's.](https://github.com/teidesu)
+<!-- e | e
+https://github.com/rysworldd
+
+https://rysworld.carrd.co
+
+https://twitter.com/rysworldd
+
+https://www.youtube.com/channel/UChsGFqFjxsOyB5MvH3em4cw
 <h1>Rysworldd 🥀</h1>
 <details><summary>Social Links</summary>
   <li><a href="https://github.com/rysworldd">Organization</a></li>
@@ -18,8 +47,6 @@
 
 ![Ry's Stats](https://github-readme-stats.vercel.app/api?username=ryswrldd&show_icons=true&theme=radical&hide_border=true)
 </details>
-<!-- e | e
-
 <!--
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
 ------------ | ------------ | ------------
