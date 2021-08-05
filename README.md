@@ -1,21 +1,8 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
 
-<h1>☁ akatsuki</h1>
-<details><summary>socials. 🐦</summary>
-  <li><a href="https://github.com/copymelee">organization.</a></li>
-  <li><a href="https://copywheel.carrd.co">carrd profile.</a></li>
-  <li><a href="https://twitter.com/copywheeI">twitter.</a></li>
-  <li><a href="https://www.youtube.com/channel/UChsGFqFjxsOyB5MvH3em4cw">youtube.</a></li>
-</details>
-
-<details><summary>profile stats. 📊</summary>
-
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
 [![my top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=copywheeI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![my profile stats.](https://github-readme-stats.vercel.app/api?username=copywheeI&show_icons=true&theme=radical&hide_border=true)
-</details>
 
 <!-- content | content
 
